@@ -1,0 +1,18 @@
+[
+    {
+        "id": "32C63782-2181-43D4-829B-B43F4DFB2773",
+        "name": "Club Mate",
+        "scanIdentifiers": [
+            "12345678"
+        ],
+        "price": "2"
+    },
+    {
+        "id": "5F6869C0-0679-442E-A123-5328837D561A",
+        "name": "Tirola Kola",
+        "scanIdentifiers": [
+            "87654321"
+        ],
+        "price": "1.50"
+    }
+]
