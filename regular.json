@@ -5,7 +5,7 @@
         "scanIdentifiers": [
             "12345678"
         ],
-        "price": "2"
+        "price": 2
     },
     {
         "id": "5F6869C0-0679-442E-A123-5328837D561A",
@@ -13,6 +13,6 @@
         "scanIdentifiers": [
             "87654321"
         ],
-        "price": "1.50"
+        "price": 1.50
     }
 ]
