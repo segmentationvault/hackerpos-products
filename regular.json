@@ -14,5 +14,37 @@
             "87654321"
         ],
         "price": 1.50
+    },
+    {
+        "id": "D9B9A184-EB1A-45C4-9869-12E8B4A9E3F2",
+        "name": "Murelli (Div. Sorten)",
+        "scanIdentifiers": [
+            "90451237"
+        ],
+        "price": 2
+    },
+    {
+        "id": "D12104A6-8D37-43F8-952A-EE2A93A885A3",
+        "name": "Lemon Soda Zero",
+        "scanIdentifiers": [
+            "31597824"
+        ],
+        "price": 1.5
+    },
+    {
+        "id": "84F908C2-4D3E-40D1-9AC8-35FDC4E9B8D5",
+        "name": "Bier",
+        "scanIdentifiers": [
+            "72541986"
+        ],
+        "price": 2
+    },
+    {
+        "id": "1B3E1A2D-9B60-4DA3-B39F-65C1F67B4B8E",
+        "name": "7UP",
+        "scanIdentifiers": [
+            "68917425"
+        ],
+        "price": 1.5
     }
 ]
