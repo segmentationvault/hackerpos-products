@@ -1,50 +1,52 @@
 [
     {
+        "id": "88382CBD-230E-4E10-8325-429AA09B0C80",
+        "name": "Makava",
+        "price": 2.50
+    },
+    {
         "id": "32C63782-2181-43D4-829B-B43F4DFB2773",
         "name": "Club Mate",
-        "scanIdentifiers": [
-            "12345678"
-        ],
         "price": 2
     },
     {
-        "id": "5F6869C0-0679-442E-A123-5328837D561A",
-        "name": "Tirola Kola",
-        "scanIdentifiers": [
-            "87654321"
-        ],
-        "price": 1.50
+        "id": "84F908C2-4D3E-40D1-9AC8-35FDC4E9B8D5",
+        "name": "Bier",
+        "price": 2
     },
     {
         "id": "D9B9A184-EB1A-45C4-9869-12E8B4A9E3F2",
-        "name": "Murelli (Div. Sorten)",
-        "scanIdentifiers": [
-            "90451237"
-        ],
+        "name": "Murelli",
         "price": 2
     },
     {
         "id": "D12104A6-8D37-43F8-952A-EE2A93A885A3",
         "name": "Lemon Soda Zero",
-        "scanIdentifiers": [
-            "31597824"
-        ],
-        "price": 1.5
-    },
-    {
-        "id": "84F908C2-4D3E-40D1-9AC8-35FDC4E9B8D5",
-        "name": "Bier",
-        "scanIdentifiers": [
-            "72541986"
-        ],
-        "price": 2
+        "price": 1.50
     },
     {
         "id": "1B3E1A2D-9B60-4DA3-B39F-65C1F67B4B8E",
         "name": "7UP",
-        "scanIdentifiers": [
-            "68917425"
-        ],
-        "price": 1.5
+        "price": 1.50
+    },
+    {
+        "id": "5F6869C0-0679-442E-A123-5328837D561A",
+        "name": "Tirola Kola",
+        "price": 1.50
+    },
+    {
+        "id": "0C55E3A4-3ABF-431A-9DD6-ECF9B3B48F7C",
+        "name": "Frucade",
+        "price": 1.50
+    },
+    {
+        "id": "EE57C44C-47F8-48FA-9829-098562B7C41F",
+        "name": "Almdudler",
+        "price": 1.50
+    },
+    {
+        "id": "756E3181-B0FB-4219-AD2F-06CEB40E1A65",
+        "name": "Radler",
+        "price": 1.50
     }
 ]

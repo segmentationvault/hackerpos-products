@@ -1,0 +1,127 @@
+[
+    {
+        "id": "88382CBD-230E-4E10-8325-429AA09B0C80",
+        "name": "Makava",
+        "price": 2.50
+    },
+    {
+        "id": "32C63782-2181-43D4-829B-B43F4DFB2773",
+        "name": "Club Mate",
+        "price": 2
+    },
+    {
+        "id": "84F908C2-4D3E-40D1-9AC8-35FDC4E9B8D5",
+        "name": "Bier",
+        "price": 2
+    },
+    {
+        "id": "D9B9A184-EB1A-45C4-9869-12E8B4A9E3F2",
+        "name": "Murelli",
+        "price": 2
+    },
+    {
+        "id": "D12104A6-8D37-43F8-952A-EE2A93A885A3",
+        "name": "Lemon Soda Zero",
+        "price": 1.50
+    },
+    {
+        "id": "1B3E1A2D-9B60-4DA3-B39F-65C1F67B4B8E",
+        "name": "7UP",
+        "price": 1.50
+    },
+    {
+        "id": "5F6869C0-0679-442E-A123-5328837D561A",
+        "name": "Tirola Kola",
+        "price": 1.50
+    },
+    {
+        "id": "0C55E3A4-3ABF-431A-9DD6-ECF9B3B48F7C",
+        "name": "Frucade",
+        "price": 1.50
+    },
+    {
+        "id": "EE57C44C-47F8-48FA-9829-098562B7C41F",
+        "name": "Almdudler",
+        "price": 1.50
+    },
+    {
+        "id": "756E3181-B0FB-4219-AD2F-06CEB40E1A65",
+        "name": "Radler",
+        "price": 1.50
+    },
+    {
+        "id": "F25747DA-5AE4-4E66-A61B-3BA26C452B2B",
+        "name": "Tschunk Slush",
+        "price": 7
+    },
+    {
+        "id": "24DDCC7E-CE71-4540-84AA-D110C8F8A68C",
+        "name": "Tschunk",
+        "price": 7
+    },
+    {
+        "id": "3E141FFA-5BBC-4E1A-AD98-27220A817AE8",
+        "name": "Turbo Mate",
+        "price": 7
+    },
+    {
+        "id": "1CE6C603-8FF7-4ECC-8137-B1D47D398D68",
+        "name": "Tiroler Freiheit",
+        "price": 6
+    },
+    {
+        "id": "143389C6-2282-42C2-A471-3B1D3979CF0E",
+        "name": "Amaretto Sour",
+        "price": 6
+    },
+    {
+        "id": "096C382B-BBC2-46C8-8F3C-852E65EC1F64",
+        "name": "Whisky Sour",
+        "price": 6
+    },
+    {
+        "id": "FA97031F-4679-4F8E-8791-530142254EA8",
+        "name": "Vodka Makava",
+        "price": 6
+    },
+    {
+        "id": "352F1A52-A926-4319-A70B-B38A7BBE250B",
+        "name": "Screwdriver",
+        "price": 5
+    },
+    {
+        "id": "54694D6B-C67A-477C-8695-80375BC037A8",
+        "name": "Div. Spirits (2cl)",
+        "price": 4
+    },
+    {
+        "id": "E71D5548-19AF-4E84-B172-0FC49DC02B0F",
+        "name": "Berliner Luft",
+        "price": 2
+    },
+    {
+        "id": "511B738D-E40D-4F4D-9296-C4DD1F0D3A74",
+        "name": "Klopfer",
+        "price": 2
+    },
+    {
+        "id": "B32447F6-ABA4-4721-9F69-601DE4E59E0E",
+        "name": "Pflaumenwein",
+        "price": 2
+    },
+    {
+        "id": "BDFF2A96-F372-4655-B0BB-790A95E3D843",
+        "name": "Burger",
+        "price": 8
+    },
+    {
+        "id": "045AAA75-1697-4FE3-8C50-FBAD8018200C",
+        "name": "Pommes",
+        "price": 2.50
+    },
+    {
+        "id": "2076A8E2-EF02-49DB-83A3-754A782F62A1",
+        "name": "Mehlspeise",
+        "price": 2
+    }
+]
